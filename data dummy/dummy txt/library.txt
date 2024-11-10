@@ -1,0 +1,7 @@
+library_id,name,address,created_at,updated_at
+1,"Perpustakaan Nasional Republik Indonesia","Jl. Medan Merdeka Selatan No.11, Gambir, Jakarta Pusat 10110",2023-02-15 09:30:45,2023-08-22 14:25:30
+2,"Perpustakaan Umum DKI Jakarta","Jl. Jend. Ahmad Yani By Pass, RT.2/RW.2, Cempaka Putih, Jakarta Pusat 10510",2023-03-20 11:15:30,2023-09-15 10:45:20
+3,"Perpustakaan Freedom Institute","Jl. Proklamasi No.41, Pegangsaan, Menteng, Jakarta Pusat 10320",2023-04-10 13:45:22,2023-10-18 15:30:15
+4,"Perpustakaan Taman Ismail Marzuki","Jl. Cikini Raya No.73, Cikini, Menteng, Jakarta Pusat 10330",2023-05-05 10:20:15,2023-11-25 13:40:30
+5,"Perpustakaan Bank Indonesia","Jl. MH. Thamrin No.2, Kebon Sirih, Menteng, Jakarta Pusat 10350",2023-06-12 14:35:40,2024-01-08 11:20:45
+6,"Perpustakaan Umum Kuningan","Jl. Prof. DR. Satrio No.7, Kuningan, Setiabudi, Jakarta Selatan 12940",2023-07-18 11:50:25,2024-01-15 09:15:30

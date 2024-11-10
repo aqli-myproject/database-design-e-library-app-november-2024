@@ -1,0 +1,51 @@
+book_id;title;author;published_year;quantity;created_at;updated_at
+1;Atomic Habits;James Clear;10/16/2018;8;3/15/2023;5/18/2023
+2;Think Like a Monk;Jay Shetty;9/8/2020;5;4/22/2023;8/25/2023
+3;Python Crash Course;Eric Matthes;1/10/2023;7;2/28/2023;6/30/2023
+4;The Psychology of Money;Morgan Housel;9/8/2020;9;11/8/2023;1/15/2024
+5;Sapiens: A Brief History of Humankind;Yuval Noah Harari;2/10/2011;6;5/15/2023;9/28/2023
+6;Iron Flame;Rebecca Yarros;11/7/2023;4;6/12/2023;12/5/2023
+7;The World Atlas of Coffee;James Hoffmann;10/6/2022;3;4/30/2023;7/22/2023
+8;Solo Leveling Vol. 1;Chugong;2/16/2021;7;1/18/2023;11/30/2023
+9;Rich Dad Poor Dad;Robert T. Kiyosaki;4/11/2017;5;5/25/2023;10/12/2023
+10;Salt Fat Acid Heat;Samin Nosrat;4/25/2017;4;6/30/2023;9/15/2023
+11;The Design of Everyday Things;Don Norman;11/5/2013;6;3/28/2023;8/8/2023
+12;How to Draw Manga;Andrew Harnes;5/15/2021;8;2/15/2023;7/30/2023
+13;Bitcoin and Cryptocurrency;Abraham K. White;8/13/2021;5;4/10/2023;9/22/2023
+14;Clean Code;Robert C. Martin;8/11/2008;7;1/15/2023;6/28/2023
+15;The Complete Calvin and Hobbes;Bill Watterson;9/6/2005;3;3/20/2023;8/15/2023
+16;A World History of Art;Hugh Honour;7/7/2009;6;5/8/2023;10/30/2023
+17;The Way of Zen;Alan W. Watts;1/26/2011;4;6/22/2023;11/15/2023
+18;The Woman in Me;Britney Spears;10/24/2023;9;10/25/2023;1/5/2024
+19;National Geographic Atlas of the World;National Geographic;10/19/2021;5;2/10/2023;7/12/2023
+20;Essential Mathematics for Data Science;Thomas Nield;11/22/2022;4;4/15/2023;9/8/2023
+21;The Whole-Brain Child;Daniel J. Siegel;10/4/2011;7;3/5/2023;8/20/2023
+22;Fundamentals of Physics;David Halliday;7/18/2023;6;5/18/2023;10/25/2023
+23;The Julia Programming Language;Ben Lauwens;1/24/2023;8;1/30/2023;6/15/2023
+24;Data Structures and Algorithms;Michael T. Goodrich;3/15/2022;5;4/25/2023;9/30/2023
+25;The Art of War;Sun Tzu;3/1/2011;4;6/8/2023;11/22/2023
+26;The Complete Guide to Breadmaking;Emmanuel Hadjiandreou;8/31/2021;6;3/12/2023;8/5/2023
+27;Investment Banking;Joshua Rosenbaum;7/14/2020;3;5/30/2023;10/18/2023
+28;The Pragmatic Programmer;David Thomas;9/23/2019;7;2/20/2023;7/25/2023
+29;One Piece Vol. 100;Eiichiro Oda;9/3/2021;5;4/5/2023;9/12/2023
+30;The Complete Guide to Yoga;B.K.S. Iyengar;6/16/2020;4;6/18/2023;11/8/2023
+31;Introduction to Quantum Mechanics;David J. Griffiths;8/9/2018;6;3/25/2023;8/30/2023
+32;The Coding Career Handbook;Shawn Wang;8/20/2020;3;5/12/2023;10/5/2023
+33;Essential Oil Natural Remedies;Althea Press;3/14/2021;8;1/8/2023;6/20/2023
+34;The Complete Mediterranean Cookbook;America's Test Kitchen;12/27/2016;5;4/20/2023;9/25/2023
+35;Digital Marketing Strategy;Simon Kingsnorth;5/3/2022;4;6/5/2023;11/18/2023
+36;Organic Chemistry;David Klein;1/19/2023;7;3/18/2023;8/12/2023
+37;The Ultimate Drawing Course;Jaysen Batchelor;6/8/2021;6;5/22/2023;10/28/2023
+38;Machine Learning with Python;Sebastian Raschka;12/6/2022;3;2/25/2023;7/15/2023
+39;Blockchain Basics;Daniel Drescher;3/16/2017;8;4/8/2023;9/18/2023
+40;The Complete Guide to Music Theory;Damon Grant;11/24/2020;5;6/25/2023;12/2/2023
+41;Fundamentals of Database Systems;Ramez Elmasri;5/16/2023;4;3/30/2023;8/22/2023
+42;The Photography Book;DK;9/7/2021;7;5/15/2023;10/15/2023
+43;Financial Intelligence;Karen Berman;2/19/2019;6;2/2/2023;7/8/2023
+44;Attack on Titan Vol. 34;Hajime Isayama;6/9/2021;3;4/28/2023;9/5/2023
+45;HTML and CSS QuickStart Guide;David DuRocher;1/11/2021;8;6/15/2023;11/25/2023
+46;The Complete Guide to Plumbing;Black & Decker;8/23/2022;5;3/8/2023;8/18/2023
+47;Pharmacology Made Easy;Bruce D. Clayton;3/21/2023;4;5/25/2023;10/22/2023
+48;Jujutsu Kaisen Vol. 19;Gege Akutami;7/4/2023;7;2/12/2023;7/28/2023
+49;The Complete Guide to Garden Design;Chris Young;2/15/2022;6;4/30/2023;9/15/2023
+50;Principles of Marketing;Philip Kotler;1/12/2023;3;6/20/2023;12/8/2023
