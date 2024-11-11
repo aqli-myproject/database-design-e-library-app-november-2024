@@ -31,6 +31,11 @@
 ## ERD Struktur Database
 ![ERD Diagram](https://github.com/aqli-myproject/database-design-e-library-app-november-2024/blob/master/erd%20e-library.png)
 
+
+# Tools
+- postgreSQL (pgAdmin4 & dbeaver)
+- python jupyter notebook
+
 ## Create Tabel Query
 file terlampir
 
