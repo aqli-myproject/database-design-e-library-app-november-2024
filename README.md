@@ -37,13 +37,13 @@
 - python jupyter notebook
 
 ## Create Tabel Query
-file terlampir
+file terlampir = create table e-library.sql
 
 ## Create Dummy Dataset With Faker
-file terlampir
+file terlampir = create dummy data faker e-library.ipynb
 
 ## Query Import Data
-file terlampir
+file terlampir = import query database e-library.sql
 
 ## Query Retrieval Data
-file terlampir
+file terlampir = retrieval data e-library.sql
